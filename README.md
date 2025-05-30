@@ -30,3 +30,16 @@ Se poate imbunatatii prin adaugarea unei functii care sa faca semafoarele rosii 
 Se poate adauga un senzor de detectie a pietonilor sa nu mai fie nevoie sa apese pe buton.
 
 ## Bibliografie și surse
+  1. **Tutoriale YouTube**
+   - Diverse tutoriale video pentru implementarea și programarea intersecțiilor semaforizate cu Arduino.
+   - Exemplu: [YouTube – Arduino Traffic Light Project](https://www.youtube.com/results?search_query=arduino+traffic+light)
+
+  2. **Resurse Google**
+   - Articole și ghiduri despre semafoare, circuite logice și utilizarea Arduino în proiecte de automatizare.
+   - Exemple de căutări: „Arduino traffic light intersection”, „intersecție semaforizată Arduino”, „proiect semafor Arduino”.
+
+  3. **Biblioteci Arduino pentru senzorul HC-SR04**
+   - [NewPing Library](https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home) – pentru gestionarea senzorului ultrasonic HC-SR04.
+   - Arduino Reference: [HC-SR04 Ultrasonic Sensor](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Ping)
+   - [GitHub – Biblioteci HC-SR04](https://github.com/search?q=HC-SR04+arduino+library)
+
